@@ -5,7 +5,7 @@ category: manuscripts
 permalink: https://philpapers.org/archive/LISRAL.pdf
 excerpt: 'This paper is about stopping rules and statistics.'
 date: 2024-12-17
-venue: 'Journal 1'
+venue: 'European Journal for Philosophy of science'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'

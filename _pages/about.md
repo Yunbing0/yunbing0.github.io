@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 I am a student majoring in philosophy.
+I am interested in philosophy of language and philosophy of science. You can find my CV here: [Yunbing's CV](../assets/Curriculum_Vitae.pdf).

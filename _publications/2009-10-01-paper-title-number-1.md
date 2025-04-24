@@ -3,7 +3,7 @@ title: "Stopping Rule and Bayesian Confirmation Theory"
 collection: publications
 category: manuscripts
 excerpt: 'This paper is about stopping rules and statistics.'
-permalink: /publication/2010-10-01-paper-title-number-2`
+#permalink: /publication/2010-10-01-paper-title-number-2`
 date: 2024-12-17
 venue: 'European Journal for Philosophy of science'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
